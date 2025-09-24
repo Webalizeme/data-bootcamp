@@ -14,7 +14,9 @@ Mon apprentissage Data Science (3h par jour).
 
 ---
 
-# Day 02 – NumPy & Pandas Data Cleaning
+# Day 02 
+
+– NumPy & Pandas Data Cleaning
 
 Aujourd’hui j’apprends :
 - NumPy : arrays, opérations vectorisées
