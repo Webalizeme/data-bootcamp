@@ -14,5 +14,10 @@ Mon apprentissage Data Science (3h par jour).
 
 ---
 
-## Day 02
-À venir : Numpy + nettoyage de données (missing values)
+# Day 02 – NumPy & Pandas Data Cleaning
+
+Aujourd’hui j’apprends :
+- NumPy : arrays, opérations vectorisées
+- Pandas : valeurs manquantes, filtrage, catégories
+- Mini-projet : nettoyage du dataset Titanic
+
