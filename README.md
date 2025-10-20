@@ -21,6 +21,8 @@ Aujourd’hui j’apprends :
 - Pandas : valeurs manquantes, filtrage, catégories
 - Mini-projet : nettoyage du dataset Titanic
 
+📓 Notebook : [Day02_Data_Cleaning.ipynb](./Day02_Data_Cleaning.ipynb) 
+
 ---
 # Day 03 – Data Manipulation & Visualization
 
